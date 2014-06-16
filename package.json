@@ -1,0 +1,21 @@
+{
+    "name": "eclipsecon_voting_machine_server",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "mongoose": "3.8.3",
+        "express": "4.4.1",
+        "compression": "*",
+        "cors": "*",
+        "morgan": "*",
+        "jade": "*",
+        "stylus": "*",
+        "nib": "*",
+        "request": "*",
+        "mqtt": "0.3.9",
+        "diacritics": "*"
+    }
+}
